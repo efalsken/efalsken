@@ -24,9 +24,3 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=sharp&logoColor=white" alt="C-sharp">
   <img src="https://img.shields.io/badge/jira-0052cc?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
 </div>
-
-## 📊 Github Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=efalsken&border_radius=9&rank_icon=github&theme=transparent" alt="Github Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efalsken&layout=compact&border_radius=9&theme=transparent" alt="Top Languages">
-<!--   <img src="https://github-readme-streak-stats-flame-iota.vercel.app?user=efalsken&border_radius=9&theme=transparent" alt="GitHub Streak"> -->
